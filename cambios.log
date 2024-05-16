@@ -1,0 +1,116 @@
+[2024-05-15 21:57:36] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 21:57:36] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 21:57:36] [ WARN ] [OdontologoDaoH2:37] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES(?,?,?) [21002-224]
+[2024-05-15 22:01:23] [ WARN ] [BD:27] La base de datos puede que ya esté siendo utilizada: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:01:23] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:01:23] [ WARN ] [OdontologoDaoH2:37] La base de datos puede que ya esté siendo utilizada: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:01:36] [ WARN ] [BD:27] La base de datos puede que ya esté siendo utilizada: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:01:36] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:01:36] [ WARN ] [OdontologoDaoH2:37] La base de datos puede que ya esté siendo utilizada: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:02:14] [ WARN ] [BD:27] La base de datos puede que ya esté siendo utilizada: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:02:14] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:02:14] [ WARN ] [OdontologoDaoH2:37] La base de datos puede que ya esté siendo utilizada: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:02:37] [ WARN ] [BD:27] La base de datos puede que ya esté siendo utilizada: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:02:37] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:02:37] [ WARN ] [OdontologoDaoH2:37] La base de datos puede que ya esté siendo utilizada: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:03:46] [ WARN ] [BD:27] La base de datos puede que ya esté siendo utilizada: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:03:46] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:03:46] [ WARN ] [OdontologoDaoH2:37] La base de datos puede que ya esté siendo utilizada: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/USUARIO/C2ClinicaOdontologica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:05:21] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:05:21] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:05:21] [ WARN ] [OdontologoDaoH2:37] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES(?,?,?) [21002-224]
+[2024-05-15 22:06:27] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:06:27] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:06:27] [ WARN ] [OdontologoDaoH2:37] Parametro "#1" no está fijado
+Parameter "#1" is not set; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES(?,?,?,?) [90012-224]
+[2024-05-15 22:06:59] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:06:59] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:06:59] [ WARN ] [OdontologoDaoH2:37] La cantidad de columnas no coincide
+Column count does not match; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES(?,?,?) [21002-224]
+[2024-05-15 22:08:24] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:08:24] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:09:12] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:09:12] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:09:12] [ INFO ] [OdontologoDaoH2:44] inicando la operacion de listar
+[2024-05-15 22:09:12] [ INFO ] [OdontologoDaoH2:57] se obtuvo resultados de busqueda
+[2024-05-15 22:10:53] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:10:53] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:10:53] [ INFO ] [OdontologoDaoH2:44] inicando la operacion de listar
+[2024-05-15 22:10:53] [ INFO ] [OdontologoDaoH2:57] se obtuvo resultados de busqueda
+[2024-05-15 22:10:53] [ INFO ] [OdontologoDaoH2:44] inicando la operacion de listar
+[2024-05-15 22:10:53] [ INFO ] [OdontologoDaoH2:57] se obtuvo resultados de busqueda
+[2024-05-15 22:16:09] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:16:09] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:18:08] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:18:08] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:18:08] [ INFO ] [OdontologoDaoH2:44] inicando la operacion de listar
+[2024-05-15 22:18:08] [ INFO ] [OdontologoDaoH2:57] se obtuvo resultados de busqueda
+[2024-05-15 22:18:08] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:18:08] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:40:25] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:40:25] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:40:25] [ INFO ] [OdontologoDaoH2:44] inicando la operacion de listar
+[2024-05-15 22:40:25] [ INFO ] [OdontologoDaoH2:57] se obtuvo resultados de busqueda
+[2024-05-15 22:40:25] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:40:25] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:41:43] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:41:43] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:41:43] [ INFO ] [OdontologoDaoH2:44] inicando la operacion de listar
+[2024-05-15 22:41:43] [ INFO ] [OdontologoDaoH2:57] se obtuvo resultados de busqueda
+[2024-05-15 22:41:44] [ INFO ] [OdontologoDaoMemory:19] se guardo odontologo en memoria
+[2024-05-15 22:41:44] [ INFO ] [OdontologoDaoMemory:25] se lista todos los odontologos
+[2024-05-15 22:42:26] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:42:26] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:42:26] [ INFO ] [OdontologoDaoH2:44] inicando la operacion de listar
+[2024-05-15 22:42:26] [ INFO ] [OdontologoDaoH2:57] se obtuvo resultados de busqueda
+[2024-05-15 22:43:11] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:43:11] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:43:11] [ INFO ] [OdontologoDaoH2:44] inicando la operacion de listar
+[2024-05-15 22:43:11] [ INFO ] [OdontologoDaoH2:57] se obtuvo resultados de busqueda
+[2024-05-15 22:43:11] [ INFO ] [OdontologoDaoMemory:19] se guardo odontologo en memoria
+[2024-05-15 22:43:11] [ INFO ] [OdontologoDaoMemory:25] se lista todos los odontologos
+[2024-05-15 22:43:50] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:43:50] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:43:50] [ INFO ] [OdontologoDaoH2:44] inicando la operacion de listar
+[2024-05-15 22:43:50] [ INFO ] [OdontologoDaoH2:57] se obtuvo resultados de busqueda
+[2024-05-15 22:43:50] [ INFO ] [OdontologoDaoMemory:19] se guardo odontologo en memoria
+[2024-05-15 22:43:50] [ INFO ] [OdontologoDaoMemory:25] se lista todos los odontologos
+[2024-05-15 22:45:29] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:45:29] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:45:29] [ INFO ] [OdontologoDaoH2:44] inicando la operacion de listar
+[2024-05-15 22:45:29] [ INFO ] [OdontologoDaoH2:57] se obtuvo resultados de busqueda
+[2024-05-15 22:45:29] [ INFO ] [OdontologoDaoMemory:19] se guardo odontologo en memoria
+[2024-05-15 22:45:29] [ INFO ] [OdontologoDaoMemory:25] se lista todos los odontologos
+[2024-05-15 22:46:24] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:46:24] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:46:24] [ INFO ] [OdontologoDaoH2:44] inicando la operacion de listar
+[2024-05-15 22:46:24] [ INFO ] [OdontologoDaoH2:57] se obtuvo resultados de busqueda
+[2024-05-15 22:46:24] [ INFO ] [OdontologoDaoMemory:19] se guardo odontologo en memoria
+[2024-05-15 22:46:24] [ INFO ] [OdontologoDaoMemory:19] se guardo odontologo en memoria
+[2024-05-15 22:46:24] [ INFO ] [OdontologoDaoMemory:25] se lista todos los odontologos
+[2024-05-15 22:49:21] [ INFO ] [OdontologoDaoMemory:19] se guardo odontologo en memoria
+[2024-05-15 22:49:21] [ INFO ] [OdontologoDaoMemory:19] se guardo odontologo en memoria
+[2024-05-15 22:49:21] [ INFO ] [OdontologoDaoMemory:25] se lista todos los odontologos
+[2024-05-15 22:49:21] [ INFO ] [OdontologoDaoMemory:19] se guardo odontologo en memoria
+[2024-05-15 22:49:21] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:49:21] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
+[2024-05-15 22:49:21] [ INFO ] [OdontologoDaoH2:44] inicando la operacion de listar
+[2024-05-15 22:49:21] [ INFO ] [OdontologoDaoH2:57] se obtuvo resultados de busqueda
+[2024-05-15 22:49:21] [ INFO ] [BD:24] tabla creada con exito
+[2024-05-15 22:49:21] [ INFO ] [OdontologoDaoH2:20] inicando la operacion de guardado
